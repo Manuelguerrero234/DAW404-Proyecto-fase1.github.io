@@ -20,3 +20,6 @@ presentacion de diseños MockUps
 
 Proyecto de Catedra 
 
+Este proyecto está licenciado bajo la licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). 
+
+Para más detalles, consulta el [texto completo de la licencia aquí](https://creativecommons.org/licenses/by/4.0/legalcode).
