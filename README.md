@@ -27,14 +27,4 @@ https://drive.google.com/file/d/1sxNZE7BfgrVC_xqbu2ssb-OWycQgeBTJ/view?usp=drive
 
 Este proyecto está licenciado bajo la licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). 
 
-Esto significa que eres libre de:
-
-- **Compartir** — copiar y redistribuir el material en cualquier medio o formato.
-- **Adaptar** — remezclar, transformar y construir a partir del material para cualquier propósito, incluso comercialmente.
-
-**Bajo las siguientes condiciones:**
-
-- **Atribución** — Debes dar el crédito adecuado, brindar un enlace a la licencia e indicar si realizaste algún cambio. Puedes hacerlo de cualquier forma razonable, pero no de manera que sugiera que tienes el apoyo del licenciante o que apruebas el uso que le das.
-
 Para más detalles, consulta el [texto completo de la licencia aquí](https://creativecommons.org/licenses/by/4.0/legalcode).
-
