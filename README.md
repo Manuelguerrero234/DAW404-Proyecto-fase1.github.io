@@ -1,30 +1,36 @@
-Proyecto de catedra 
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-Integrates 
+## Getting Started
 
-Enrique Alexander Solano López sl223188 
+First, run the development server:
 
-Norman Enmanuel Quijano Amaya QA240640 
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-Manuel Ezequiel guerrero granados GG241501 
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Katherine Stefany Vargas Carbajal VC232242 
+You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-Manual de Usuario 
-https://drive.google.com/file/d/1t-G2AsJZ3-Qpix3qcaD-qlIRvL6OqNZ2/view?usp=drive_link
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-Manual Tecnico
+## Learn More
 
+To learn more about Next.js, take a look at the following resources:
 
-Trello
-https://trello.com/b/eNS8vYMG/proyecto-de-catedra
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-Presentacion de diseños MockUps 
-https://drive.google.com/file/d/1i0bvK_T6sBLJ2z9VyDlCXsUtDhRdUxT4/view?usp=drive_link
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-Proyecto de Catedra
-https://drive.google.com/file/d/1sxNZE7BfgrVC_xqbu2ssb-OWycQgeBTJ/view?usp=drive_link
+## Deploy on Vercel
 
-Este proyecto está licenciado bajo la licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). 
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Para más detalles, consulta el [texto completo de la licencia aquí](https://creativecommons.org/licenses/by/4.0/legalcode).
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
